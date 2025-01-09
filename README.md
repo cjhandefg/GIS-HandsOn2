@@ -3,7 +3,12 @@ Tugas 1 Sistem Informasi Geografis
 Tujuan Tugas
 
 
-⋅ Menambahkan marker dan poligon secara interaktif pada peta.
-⋅ Melakukan proses penyimpanan data marker dan poligon ke database.
-⋅ Menampilkan data marker dan poligon dari database ke peta.
+⋅ Dapat menambahkan marker dan poligon secara interaktif pada peta.
 
+
+⋅ Dapat melakukan proses penyimpanan data marker dan poligon ke database.
+
+
+⋅ Dapat Menampilkan data marker dan poligon dari database ke peta.
+
+⋅ Update view ke AdminLTE
